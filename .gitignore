@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.vscode/
+*.swp
+odoo_local.env
+odoo_erp.env
+.cache/
