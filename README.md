@@ -2,6 +2,8 @@
 
 Thin local helper for Odoo 19 JSON-2 agent-mode calls.
 
+See the explanator article: <https://strictbase.com/guides/odoo-agent-access.html>.
+
 It keeps the interface generic:
 
 - `exec-spec` for stable file-driven execution through a fixed shell command
